@@ -53,4 +53,4 @@ Key fields include:
 - ﻿﻿Quantity
 - ﻿﻿Sales
 - ﻿﻿Cost
- • ﻿﻿Net Sales
+- ﻿﻿Net Sales
